@@ -87,6 +87,10 @@ the Speed of a Law Project Promulgation](https://github.com/analytics-ufcg/leggo
 
 - [Infográfico - O que 15mil tweets mostram dos políticos](https://infograficos.estadao.com.br/politica/eleicoes/2018/o-que-15-mil-tweets-revelam-sobre-seu-candidato/)
 
+##### POS:
+
+- [Classes gramaticais python](https://medium.com/@gianpaul.r/tokenization-and-parts-of-speech-pos-tagging-in-pythons-nltk-library-2d30f70af13b)
+
 ##### Outros:
 
 - [IA - Discursos de deputados: TensorFlow](https://github.com/GuitarsAI/AI_DeputiesSpeeches)
